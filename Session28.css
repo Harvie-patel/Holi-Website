@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Dongle:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Gideon+Roman&family=Lobster&family=Lobster+Two:ital,wght@1,700&family=Pacifico&family=Praise&family=Tangerine:wght@400;700&display=swap');
+
+*{
+    text-align: center;
+    padding: 0;
+}
+
+.Navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: lightcoral;
+    color: lightgoldenrodyellow;
+    height: 70px;
+    font-size: 35px;
+}
+
+.links a{
+    text-decoration: none;
+    color: lightgoldenrodyellow;
+    margin-right: 30px;
+    font-size:  25px;
+}
+
+.links a:hover{
+    font-size: 40px;
+    color: lightgoldenrodyellow;
+}
+
+body{
+    background: linear-gradient(#fc00ff,#00dbde);
+    font-family: 'Pacifico', cursive;
+    color: azure;
+}
+
+.title{
+    font-family: 'Lobster', cursive;
+}
+
+.footer{
+    background-color: lightcoral;
+    text-align: center;
+    height: 80px;
+    padding: 40px;
+    color: lightgoldenrodyellow;
+}
+
+.images{
+    display: flex;
+    justify-content: space-around;
+}
+
+.picture{
+    margin-top: 50px;
+}
+
+.background{
+    background-color: #FDFFA9;
+}
+
+.border{
+    background-color: yellow;
+}
+
+.text{
+    color: lightpink;
+}
+
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    color: burlywood;
+}
+
+.Footer-alignment{
+    margin-bottom: 100px;
+}
